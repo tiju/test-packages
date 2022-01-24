@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tiju/test-packages/issues"
   },
+  "publishConfig": {
+   "@tiju:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/tiju/test-packages#readme"
 }
